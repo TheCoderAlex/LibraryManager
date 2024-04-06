@@ -1,0 +1,8 @@
+四月 06, 2024 5:12:26 下午 com.library.io.Interaction addStudent
+信息: New Student:Student(sid=0, name=晓峰, sex=男, grade=2022)
+四月 06, 2024 5:12:40 下午 com.library.io.Interaction addBook
+信息: New Book:Book(bid=0, title=图书, description=我是图书, price=3.3)
+四月 06, 2024 5:16:18 下午 com.library.io.Interaction addStudent
+信息: New Student:Student(sid=0, name=小红, sex=女, grade=2020)
+四月 06, 2024 5:16:29 下午 com.library.io.Interaction addBook
+信息: New Book:Book(bid=0, title=男人装, description=哈哈哈哈, price=20.0)
